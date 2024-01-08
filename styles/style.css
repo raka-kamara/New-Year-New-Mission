@@ -459,8 +459,6 @@ body {
   position: relative;
   background: #070211;
   width: 100%;
-  margin: 0%;
-  padding: 0%;
   height: 500px;
 }
 
@@ -494,10 +492,9 @@ body {
 
 .footer-line1 {
   position: absolute;
-
+  width: 100%;
   top: 220px;
   color: #fff;
-  width: 200%;
 }
 
 .footer-line2 {
@@ -505,7 +502,8 @@ body {
 
   top: 320px;
   color: #fff;
-  width: 200%;
+  width: 100%;
+
 }
 
 .footer-bottom > p {
