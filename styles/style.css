@@ -9,11 +9,8 @@ body {
   background-size: cover;
   width: 1320px;
   height: 600px;
-  margin: 5% 25%;
-  /* display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;  */
+  margin: 5% 15%;
+  
 }
 
 .banner {
@@ -54,7 +51,7 @@ body {
 /* main */
 .fi {
   width: 1320px;
-  margin: 5% 25%;
+  margin: 5% 15%;
 }
 .first {
   justify-content: center;
@@ -108,7 +105,7 @@ body {
   background-size: cover;
   width: 1320px;
   height: 600px;
-  margin: 5% 25%;
+  margin: 5% 15%;
   mix-blend-mode: multiply;
 }
 .sec {
@@ -179,7 +176,7 @@ body {
   background-size: cover;
   width: 1320px;
   height: 600px;
-  margin: 5% 25%;
+  margin: 5% 15%;
 }
 
 .th {
@@ -232,7 +229,7 @@ body {
   background-size: cover;
   width: 1320px;
   height: 400px;
-  margin: 5% 25%;
+  margin: 5% 15%;
 }
 .box1 {
   width: 30%;
@@ -255,7 +252,7 @@ body {
   text-align: center;
   width: 1320px;
   height: 700px;
-  margin: 5% 25%;
+  margin: 5% 15%;
 }
 .six > h6 {
   color: #070211;
@@ -334,7 +331,7 @@ body {
   background-size: cover;
   width: 1320px;
   height: 1200px;
-  margin: 5% 25%;
+  margin: 5% 15%;
 }
 .seven > h6 {
   color: #f00;
@@ -392,7 +389,7 @@ body {
   background-size: cover;
   width: 1320px;
   height: 600px;
-  margin: 5% 25%;
+  margin: 5% 15%;
 }
 .ei {
   text-align: center;
